@@ -7,7 +7,7 @@ If user fly in this zone and his job is not set as "police"/"sheriff" or ambulan
 https://streamable.com/cjayxj
 https://streamable.com/4ur12e
 
-## No-Flight Zones are marked on map:
+## No-Flight Zones are marked on a map:
 ![](https://i.imgur.com/rW05jeC.png)
 
 ## Dependecies:
