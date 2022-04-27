@@ -11,8 +11,8 @@ https://streamable.com/4ur12e
 ![](https://i.imgur.com/rW05jeC.png)
 
 ## Dependecie:
-[Mythic Notify](https://github.com/JayMontana36/mythic_notify)
-
+- [Mythic Notify](https://github.com/JayMontana36/mythic_notify)
+- [ESX framework](https://github.com/esx-framework)
 ## Resmon:
 ![](https://i.imgur.com/g65JNaB.png)
 
