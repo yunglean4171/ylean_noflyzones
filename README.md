@@ -10,7 +10,7 @@ https://streamable.com/4ur12e
 ## No-Flight Zones are marked on map:
 ![](https://i.imgur.com/rW05jeC.png)
 
-## Dependecie:
+## Dependecies:
 - [Mythic Notify](https://github.com/JayMontana36/mythic_notify)
 - [ESX framework](https://github.com/esx-framework)
 ## Resmon:
