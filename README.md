@@ -3,7 +3,7 @@
 ## Simple FiveM script adding No-Fly Zones
 If a user flies into one of these zones and their job is not set as police, sheriff, or ambulance, a notification will be displayed. After 5 to 10 seconds, they will be shot down.
 
-## Preview
+## Showcase
 SOON
 
 ## No-Fly Zones is marked on a map:
