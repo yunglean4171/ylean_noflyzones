@@ -1,13 +1,13 @@
-# [ESX] ylean_noflightzones
+# [ESX] ylean_noflyzones
 
-## Simple FiveM script adding No-Flight Zoness
-If user fly in this zone and his job is not set as police, sheriff or ambulance the notify will show and after from 5 to 10 secs he will get shot down.
+## Simple FiveM script adding No-Fly Zones
+If a user flies into one of these zones and their job is not set as police, sheriff, or ambulance, a notification will be displayed. After 5 to 10 seconds, they will be shot down.
 
 ## Preview
 https://streamable.com/cjayxj
 https://streamable.com/4ur12e
 
-## No-Flight Zones is marked on a map:
+## No-Fly Zones is marked on a map:
 ![](https://i.imgur.com/rW05jeC.png)
 
 ## Dependecies:
