@@ -97,12 +97,6 @@ Citizen.CreateThread(function()
             hit = false
             entered = false
         end
-    
-        if DoesEntityExist(playerPed) and Config.displayZoneMarker then
-            DrawMarker(1, zones[closestZone].x, zones[closestZone].y, zones[closestZone].z - 1.0001, 0, 0, 0, 0, 0, 0, 200.0, 200.0, 2.0, 13, 232, 255, 155, 0, 0, 2, 0, 0, 0, 0)
-        end
-    
         Citizen.Wait(1000)
     end
 end)
-            
