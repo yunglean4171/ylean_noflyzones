@@ -4,8 +4,7 @@
 If a user flies into one of these zones and their job is not set as police, sheriff, or ambulance, a notification will be displayed. After 5 to 10 seconds, they will be shot down.
 
 ## Preview
-https://streamable.com/cjayxj
-https://streamable.com/4ur12e
+SOON
 
 ## No-Fly Zones is marked on a map:
 ![](https://i.imgur.com/rW05jeC.png)
