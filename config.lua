@@ -7,5 +7,3 @@ Config.zones = {
 }
 
 Config.notificationText = '⚠️ You have entered No-Fly Zone; you will be shot down shortly!⚠️'
-
-Config.displayZoneMarker = false
