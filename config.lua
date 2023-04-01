@@ -6,7 +6,7 @@ Config.zones = {
     {x = -2195.1352539063, y = 4288.7290039063, z = 49.173923492432}
 }
 
-Config.notificationText = '⚠️ You have entered No-Fly Zone you will get shot down soon!⚠️'
+Config.notificationText = '⚠️ You have entered No-Fly Zone. you will get shot down shortly!⚠️'
 
 Config.minTime = 5
 Config.maxTime = 10
