@@ -57,7 +57,7 @@ function playerHasEnteredNFZ(isInZone)
     if isInZone then
         exports['mythic_notify']:DoHudText('error', Config.notificationText, { ['background-color'] = '#ff0000', ['color'] = '#000000' })
 
-        local time = math.random(5, 10)
+        local time = math.random(Config.minTime,Config.maxTime)
         Citizen.Wait((time - 5) * 1000) -- Subtract 5 seconds for the countdown sound
         
         -- Play countdown sound
